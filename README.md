@@ -1,5 +1,6 @@
 # Linefollower Arduino library
 
+
 > This library for Arduino for you to make a line follower robot  with simple code.
 
 
@@ -28,5 +29,6 @@ sensor.line();
 > This function returns the robot run in the desired black line .
 
 ## Contributors
-    Ishthiaq Hussain
     Vinodhini
+    Ishthiaq Hussain
+    

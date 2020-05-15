@@ -27,4 +27,6 @@ sensor.line();
 ```
 > This function returns the robot run in the desired black line .
 
-
+## Contributors
+    Ishthiaq Hussain
+    Vinodhini
